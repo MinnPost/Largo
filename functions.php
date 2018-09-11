@@ -163,6 +163,7 @@ $requires = array(
 	'/inc/jetpack.php', // Jetpack compatibility file
 	'/inc/settings.php', // Additional site settings
 	'/inc/taxonomy-archive-sidebars.php', // Custom sidebars for taxonomy archives
+	'/inc/update.php', // Largo Update stuff
 	'/inc/widgets/author-bio.php',
 	'/inc/widgets/site-blurb.php',
 );
